@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hammad ur Rafay</h1>
 <p align="center">
   <a href="https://github.com/hammaadd">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;%20From%20Rahim%20Yar%20Khan%20Pakistan&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<h3 align="center">Full-Stack developer from RYK, Pakistan</h3>
 <img width="400" align="right" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammaadd&label=Profile%20views&color=0e75b6&style=flat" alt="hammaadd" /> </p>
 <p align="left"><img align="center" src="https://wakatime.com/badge/user/d10ce1bf-9362-4b6f-a3bd-84ce9e2ef552.svg" alt="Hammad Ur rafay" /></p>
