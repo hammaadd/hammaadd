@@ -6,7 +6,7 @@
 </p>
 <img width="400" align="right" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammaadd&label=Profile%20views&color=0e75b6&style=flat" alt="hammaadd" /> </p>
-<p align="left"><img align="center" src="https://wakatime.com/badge/user/d10ce1bf-9362-4b6f-a3bd-84ce9e2ef552.svg" alt="Hammad Ur rafay" /></p>
+
 
 - 🔭 I’m currently working on [AI WareHub](https://www.aiwarehub.com/)
 - 🌱 I’m currently learning **React, Next.js**
