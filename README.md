@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hammad ur Rafay</h1>
 <p align="center">
   <a href="https://github.com/hammaadd">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Full%20Stack%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;%20From%20Rahim%20Yar%20Khan%20Pakistan&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;%20From%20Rahim%20Yar%20Khan%20Pakistan&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <img width="400" align="right" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammaadd&label=Profile%20views&color=0e75b6&style=flat" alt="hammaadd" /> </p>
