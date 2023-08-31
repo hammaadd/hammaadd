@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammaadd&label=Profile%20views&color=0e75b6&style=flat" alt="hammaadd" /> </p>
 
 
-- 🔭 I’m currently working on [AI WareHub](https://www.aiwarehub.com/)
+- ⚡ I am working with [Navicosoft](https://navicosoft.com)
+- 🔭 Last Project [AI WareHub](https://www.aiwarehub.com/)
 - 🌱 I’m currently learning **React, Next.js**
 - 🤝 I’m looking to collaborate on **Wordpress Plugin**
 - 💬 Ask me about **PHP, JS, Laravel, OctoberCms, WinterCms, APIs, UI/UX designs, DJango**
