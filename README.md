@@ -10,8 +10,10 @@
 
 - ⚡ I am working with [Navicosoft](https://navicosoft.com)
 - 🔭 Last Project [AI WareHub](https://www.aiwarehub.com/)
-- 🌱 I’m currently learning **React, Next.js**
+- ✅ Proudly leading the tech team behind Mustakshif Halal Scanner App [Mustakshif](https://www.mustakshif.com/)
 - 🌐 Created Pakistan's First Domain Registrar portal in Laravel
+- 🔗 Specialized in Developing TLD Registration Systems using WHMCS and Icann Registry 
+- 🌱 I’m currently learning **React, Next.js**
 - 🤝 I’m looking to collaborate on **Wordpress Plugin**
 - 💬 Ask me about **PHP, JS, Laravel, OctoberCms, WinterCms, APIs, UI/UX designs, DJango**
 - 📫 How to reach me: **hammad@aiwarehub.com**
